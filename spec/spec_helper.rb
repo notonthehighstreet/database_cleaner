@@ -5,6 +5,7 @@ Bundler.setup
 
 require 'rspec/core'
 require 'rspec/mocks'
+require 'rspec/its'
 
 #require 'active_record'
 #require 'mongo_mapper'

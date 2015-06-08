@@ -38,6 +38,7 @@ end
 
 group :test do
   gem "rspec-rails"
+  gem "rspec-its"
   gem "sqlite3"
 end
 
